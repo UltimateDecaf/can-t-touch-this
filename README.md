@@ -1,3 +1,6 @@
 # H1 Can't Touch This!
-- An exhilarating rage game created based on Stephen Critoph's 'The World's Hardest Game'.
-- I recreated the original game, the code was made by me based on playing the original game.
+- This project is based on 'The World's Hardest Game' created by Stephen Critoph. 
+- Having played the original game, I recreated the assets and wrote my own code.
+- This project is created as a portfolio piece and is not intended for commercial use.
+
+Enjoy!
