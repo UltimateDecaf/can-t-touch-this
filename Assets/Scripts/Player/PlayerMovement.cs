@@ -36,7 +36,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        rb.velocity = moveVector * moveSpeed * Time.deltaTime;
+        rb.velocity = moveVector * moveSpeed;
     }
 
     private void OnMovementPerformed(InputAction.CallbackContext value)
